@@ -1,0 +1,17 @@
+--- Job trnsport.gms Start 01/18/23 20:51:06 38.2.1 96226ea8 WEX-WEI x86 64bit/MS Windows
+*** Unable to open input file (RC=2) G:\distance between hostpital and people group in damascus\trnsport.gms
+*** SysMsg: No such file or directory
+--- Applying:
+    C:\GAMS\38\gmsprmNT.txt
+--- GAMS Parameters defined
+    Input "G:\distance between hostpital and people group in damascus\trnsport.gms"
+    PageSize 0
+    ScrDir "G:\distance between hostpital and people group in damascus\225a\"
+    SysDir C:\GAMS\38\
+    LogOption 3
+    ErrMsg 1
+    ErrorLog 99
+    IDE 1
+    LstTitleLeftAligned 1
+*** Status: Terminated due to parameter errors
+--- Job trnsport.gms Stop 01/18/23 20:51:06 elapsed 0:00:00.009
